@@ -1,0 +1,9 @@
+@font-face {
+    font-family: DINNextLTPro-MediumCond; /* Имя шрифта */
+    src: url(../fonts/DINNextLTPro-MediumCond.otf); /* Путь к файлу со шрифтом */
+ }
+
+ @font-face {
+    font-family: RobotoLight; /* Имя шрифта */
+    src: url(../fonts/RobotoLight.ttf); /* Путь к файлу со шрифтом */
+ }
